@@ -1,0 +1,110 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1rem;
+}
+section {
+    background-color: #BBDDEE;
+    margin-block-end: 1rem;
+    padding: 0rem;
+}
+strong {
+    font-weight: bold;
+    font-style: italic;
+    align-items: center;
+}
+    .iso {
+    float: left;
+    font-size: 500%;
+    width: 5rem;
+    text-align: center;
+    padding: 0.2rem;
+    background-color: #568;
+    color: white;
+    border: solid white 1px;
+    border-width: 0 0.5rem 0.5rem 0;
+    margin: 0 0.5rem 0.5rem 0;
+}
+.glass {
+    float: left;
+    font-size: 500%;
+    width: 5rem;
+    text-align: center;
+    padding: 0.2rem;
+    background-color: #568;
+    color: white;
+    border: none;
+    margin: 0 0.5rem 0.5rem 0;
+}
+.glass img {
+    max-width: 100%;
+}
+.underlined {
+    text-decoration: underline;
+    color: blue;
+    }
+.reunaviiva {
+    border: black solid 1px;
+}
+.border {
+border: 1px solid black;
+background-color: white;
+width: 400px;
+height: 20px;
+margin: -34px 0.5rem 0.5rem 0;
+border-width: 0rem 0.1rem 0.1rem 0rem;
+padding: 0.5rem;
+}
+.border2 {
+    float: right;
+    border: 1px solid black;
+    background-color: white;
+    width: 400px;
+    height: 15px;
+    margin: 0 -1px;
+    border-width: 0.1rem 0rem 0.1rem 0.1rem;
+    text-indent: 1em; 
+    margin: 0.2em -1px 0.2em 0.5em;
+    padding: 1em; 
+}
+
+h1, h2, h3, p, pre, ul {
+    margin-block-end: 1rem;
+    padding: 0.5rem;
+}
+h1 {
+    font-size: 1.6 rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+h2 {
+    font-size: 1.6 rem;
+    font-weight: bold;
+    text-align: right;
+    background-color: rgb(128, 161, 171);
+    border-color: lightslategray;
+}
+h3 {
+    font-size: 1.6 rem;
+    font-weight: bold;}  
+p {
+    font-size: 1.6 rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0rem;
+    margin-block-end: 0rem;
+    padding: 0.2rem;
+}   
+pre {
+    font-size: 1.6 rem;
+    padding: 1rem;
+}   
+ul {
+    font-size: 1.6 rem;
+    color: blue;
+    text-decoration: underline;
+    padding: 1.5rem;
+    list-style-type: disc;
+}
